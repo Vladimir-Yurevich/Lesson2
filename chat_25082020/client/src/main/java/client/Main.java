@@ -6,6 +6,11 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
+//Это заглушка, не успел сделать д.з. Начал разбираться с кодом, думаю что
+// нужно изменить метод регистрации: убрать список List<UserData> users, добавить метод записи в базу
+// добавить метод чтения из базы.
+// или все это реализовать в одном методе registration..
+
 public class Main extends Application {
 
     @Override
